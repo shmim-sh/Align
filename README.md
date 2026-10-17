@@ -151,20 +151,20 @@
 
 <table>
   <tr>
-    <td align="center"><img src="images/img1.jpg" alt="تصویر ۱" width="100%"><br><sub>تصویر ۱</sub></td>
-    <td align="center"><img src="images/img2.jpg" alt="تصویر ۲" width="100%"><br><sub>تصویر ۲</sub></td>
+    <td align="center"><img src="images/img1.jpg" alt="تصویر ۱" width="100%"><br><sub>  آپلود تصویر در حالت اولیه</sub></td>
+    <td align="center"><img src="images/img2.jpg" alt="تصویر ۲" width="100%"><br><sub>مشخص کردن نقاط مرجع روی تصویر در حالت اولیه</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/img3.jpg" alt="تصویر ۳" width="100%"><br><sub>تصویر ۳</sub></td>
-    <td align="center"><img src="images/img4.jpg" alt="تصویر ۴" width="100%"><br><sub>تصویر ۴</sub></td>
+    <td align="center"><img src="images/img3.jpg" alt="تصویر ۳" width="100%"><br><sub> (تصویر 1)مشخص کردن معادل نقاط مرجع مشخص شده در حالت اولیه روی حالت ثانویه</sub></td>
+    <td align="center"><img src="images/img4.jpg" alt="تصویر ۴" width="100%"><br><sub> (تصویر 2)مشخص کردن معادل نقاط مرجع مشخص شده در حالت اولیه روی حالت ثانویه</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/img5.jpg" alt="تصویر ۵" width="100%"><br><sub>تصویر ۵</sub></td>
-    <td align="center"><img src="images/img6.jpg" alt="تصویر ۶" width="100%"><br><sub>تصویر ۶</sub></td>
+    <td align="center"><img src="images/img5.jpg" alt="تصویر ۵" width="100%"><br><sub>شروع فرآیند نگاشت و معادل سازی</sub></td>
+    <td align="center"><img src="images/img6.jpg" alt="تصویر ۶" width="100%"><br><sub> استخراج مسیر در حالت ثانویه از روی نقاط مرجع و مسیر در حالت اولیه</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/img7.jpg" alt="تصویر ۷" width="100%"><br><sub>تصویر ۷</sub></td>
-    <td align="center"><img src="images/img8.jpg" alt="تصویر ۸" width="100%"><br><sub>تصویر ۸</sub></td>
+    <td align="center"><img src="images/img7.jpg" alt="تصویر ۷" width="100%"><br><sub>(تصویر 1)با نگه داشتن ردیاب روی هر نقطه می توان معادل انرا در تصویر حالت اولیه مشاهده کرد</sub></td>
+    <td align="center"><img src="images/img8.jpg" alt="تصویر ۸" width="100%"><br><sub>(تصویر 2)با نگه داشتن ردیاب روی هر نقطه می توان معادل انرا در تصویر حالت اولیه مشاهده کرد</sub></td>
   </tr>
 </table>
 
